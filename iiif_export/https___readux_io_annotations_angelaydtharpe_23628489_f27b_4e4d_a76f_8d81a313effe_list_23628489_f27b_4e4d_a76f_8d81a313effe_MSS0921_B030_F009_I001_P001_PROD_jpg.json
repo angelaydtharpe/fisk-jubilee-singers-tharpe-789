@@ -1,0 +1,357 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/annotations/angelaydtharpe/23628489-f27b-4e4d-a76f-8d81a313effe/list/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P001-PROD.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "4a9ee8ea-c5a6-4d47-9683-2a0a4606e1fe",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: Garamond, serif;\">George White was a White man in his twenties when he founded the Fisk Jubilee Singers in 1871. Initially a music teacher at Fisk, with time, White became the university&rsquo;s treasurer. When Fisk went into debt, White gathered together his best students to perform in order to fundraise for the school. Initially, the musical group traveled across Tennessee, and not only sang, but did recitations, gymnastics and drama performances. Eventually, they traveled North, and when the group, who mainly sang popular songs, included a few spirituals in their performance, the White crowd responded with enthusiasm. This made the Black performers uncomfortable, as the slave songs had been largely shielded from White consumption until then, but George White encouraged them to teach him &ldquo;the music their parents and grandparents had sung as slaves&rdquo;, and when they did, they came to represent the Black religious experience for their White audiences &nbsp;(&ldquo;George White&rdquo;).</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P001-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3314,746,429,321",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3314.41315,746.22613h214.53035v0h214.53035v160.35101v160.35101h-214.53035h-214.53035v-160.35101z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a805a2a5-d543-46be-8c45-36e3622bf0f7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=3314,746,429,321"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "53eadef4-fb6e-4d10-bb4b-ab4569cb5ce4",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: Garamond, serif;\">The Fisk Jubilee Singers eventually grew successful enough to travel to Europe, where they sang for Queen Victoria, who afterward commissioned a floor-to-ceiling portrait of the group as a gift from England to Fisk. The troupe eventually disbanded after &ldquo;one of the singers had a stroke, another repeatedly collapsed&rdquo; and &ldquo;several became resistant to White&rsquo;s paternalistic attempts to keep order&rdquo; (&ldquo;George White&rdquo;). In addition, Fisk&rsquo;s president refused to raise the singers&rsquo; salaries. A new choir was put together a year later, in 1879, and the Fisk Jubilee Singers continue to perform in 2021. Their current director is Dr. Paul T. Kwami, who is the first African to direct the musical group. He says, &ldquo;The music we sing today helps to bridge the gap between Africans and African-Americans. I am reminded of my life in Ghana whenever I hear the Fisk Jubilee Singers sing the Negro spirituals&rdquo; (&ldquo;Who We Are&rdquo;). The director in the French program presented in this archive is Henrietta Meyers, who went by Mrs. James A. Meyers professionally, the name of her late husband, because &ldquo;she did not want white people to be able to show disrespect by calling her by her first name&rdquo; (&ldquo;Henrietta Meyers&rdquo;). Meyers received acclaim for her direction of the group, including from Madame Curie, George Bernard Shaw and the French composer Maurice Ravel, who presented her troupe with a photograph signed &ldquo;Homage to Perfection&rdquo; (&ldquo;Henrietta Meyers&rdquo;).</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P001-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3786,708,843,391",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3786.09213,707.98189h421.68666v0h421.68666v195.40823v195.40823h-421.68666h-421.68666v-195.40823z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6d6ec13e-4923-4382-897c-cf25eefbf446\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=3786,708,843,391"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "19f4abfe-6aee-4e31-8c16-5f7b816549e5",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: Garamond, serif;\">This French program is significant because it is another example of the narrative of Black exhibitionism: Black people whose experiences&mdash;usually vulnerable, painful experiences, such as the memory of enslavement for these Jubilee singers or the memories of police brutality, incarceration and/or poverty in the Black contemporary&mdash;are exhibited to White people as educational entertainment. Why were the Fisk Jubilee Singers made to sing the private songs of their once enslaved families? Because White people wanted them to and were willing to pay, not just in America but in Europe as well. Why did they initially disband? Because of the lack of care they received in exchange for their performance: the suffering of strokes, the ill treatment of their White directors, and the failure to be paid an amount equivalent with their success. Though perhaps the group enjoyed singing, though perhaps it brought them some kind of closure, the way that they were treated by consumers and by their initial White leaders is indicative of a problem that is often still evident in Black performance. This French program reveals a pattern of enthusiastic White crowds who do not care for Black people outside of the context of performance. It also reveals the pattern of Black pain as performance for White audiences, which we see especially in the contemporary with the marketability of Black stories after the death of George Floyd. This program asks the questions: Who owns Black performance? Who consumes it? What does popular Black performance require, and are the performers cared for when they are not performing?</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P001-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=4685,721,850,410",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4684.83181,720.72997h424.87368v0h424.87368v204.96929v204.96929h-424.87368h-424.87368v-204.96929z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_670ca9de-0796-4bfd-a8b5-dfd16f42be23\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=4685,721,850,410"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "3c100e53-fe80-40c7-bee0-9e73129d007a",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: Garamond, serif;\">The original Fisk singers were Isaac Dickerson, Ben Holmes, Greene Evans, Thomas Rutling, Ella Sheppard, Maggie Porter, Minnie Tate, Jennie Jackson, and Eliza Walker. Some of the initial Jubilee Singers were children. Minnie Tate was fourteen years old, and George Wells was eight years old. Others were well known in the Black community of their time, like Ella Sheppard, who was a close friend to Frederick Douglass and Booker T. Washington.</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P001-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=6674,657,372,365",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6673.53238,656.98957h185.84717v0h185.84717v182.66015v182.66015h-185.84717h-185.84717v-182.66015z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a3895f3c-331c-41a7-b3f9-0fb18921d5c0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=6674,657,372,365"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "a8f00947-8847-4282-8f6f-f52a82c91323",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: Garamond, serif;\">Of the original nine Jubilee singers, seven had once been enslaved (Tipton 45).</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P001-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=7591,969,365,257",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M7591.39418,969.31754h182.66015v0h182.66015v128.48081v128.48081h-182.66015h-182.66015v-128.48081z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f3a6339e-4396-4eb7-bec7-8cf2d616e26c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=7591,969,365,257"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "59b65ad4-0f89-4b8a-87be-aaafbd0fff21",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: Garamond, serif;\">On the troupe&rsquo;s decision to include slave songs in their performances, Ella Sheppard says, &ldquo;The slave songs were never used by us [in the beginning] in public. They were associated with slavery and the dark past, and represented things to be forgotten. Then, too, they were sacred to our parents, who used them in their religious worship and shouted over them. We did not dream of ever using [the slave songs] in public. Had Mr. White or Professor Spence suggested such a thing, we certainly had rebelled [sic]. It was only after many months that gradually our hearts were opened to the influence of these friends and we began to appreciate the wonderful beauty and power of our songs...&rdquo; (Graber 39)</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P001-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=6266,1925,907,346",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6265.5938,1925.42358h453.55686v0h453.55686v173.09909v173.09909h-453.55686h-453.55686v-173.09909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b0a0d98d-cc92-444f-853d-75ad4cd8ccf0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=6266,1925,907,346"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "72657a21-7627-4613-aa53-5eeace83210c",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: Garamond, serif;\">The size of the Jubilee Singers has varied over the years. The initial group had nine members. When they became successful and went abroad, the troupe grew to eleven members. Under the direction of Mrs. James A. Meyers from 1928 to 1947, the group varied in size, sometimes with only four to six people. In 2021, the group has twelve members.</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P001-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=6629,1135,448,238",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6628.9141,1135.04259h224.09141v0h224.09141v118.91975v118.91975h-224.09141h-224.09141v-118.91975z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b7adc869-058c-4b00-92cd-974cb920d7f6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=6629,1135,448,238"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "47e13ac4-0c12-485c-b5d0-823e9407ddba",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: Garamond, serif;\">The last year that Mrs. James A. Meyers directed the Fisk Jubilee Singers, 1947, was the first year that Fisk University had a Black president.</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P001-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=7169,700,220,432",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M7168.79531,700.01434h109.99609v0h109.99609v216.12386v216.12386h-109.99609h-109.99609v-216.12386z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e402867b-0f96-4c91-95c1-4dddf00ba763\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=7169,700,220,432"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "800a5709-c97f-4a8a-a213-3e5cdf955303",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: Garamond, serif;\">Between 1871, the year the group was founded, and 1878, the Fisk Jubilee Singers raised $150,000 for the school&rsquo;s treasury, which was enough money to build Jubilee Hall, the first permanent structure built for black education in the South.</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P001-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3308,1457,513,254",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3308.03911,1457.25033h256.28031v0h256.28031v127.206v127.206h-256.28031h-256.28031v-127.206z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b942f244-587d-4780-b7e8-314d5a6855e7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=3308,1457,513,254"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "96ac8a15-37eb-4ef6-8d85-745e66fab385",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: Garamond, serif;\">The troupe&rsquo;s music was as admired by those who did not speak English as those who did. George White recounts that when he took the group to Holland, he expected less enthusiasm than when they were in English-speaking countries, but found that the admiration was the same (&ldquo;George White&rdquo;).</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P001-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=663,367,1798,352",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M663.4498,367.28944h898.78357v0h898.78357v175.96741v175.96741h-898.78357h-898.78357v-175.96741z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e8d875df-1a7f-4d31-9ae4-6e29226c4274\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=663,367,1798,352"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

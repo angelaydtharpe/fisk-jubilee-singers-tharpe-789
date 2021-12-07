@@ -1,0 +1,10 @@
+---
+annotation_id: 53eadef4-fb6e-4d10-bb4b-ab4569cb5ce4
+author: Angela Tharpe
+tei_target: 
+annotated_page: https://readux.io/iiif/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P001-PROD.jpg
+page_index: 0
+target: 
+
+---
+<p class="MsoNormal" style="margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;"><span style="font-family: Garamond, serif;">The Fisk Jubilee Singers eventually grew successful enough to travel to Europe, where they sang for Queen Victoria, who afterward commissioned a floor-to-ceiling portrait of the group as a gift from England to Fisk. The troupe eventually disbanded after &ldquo;one of the singers had a stroke, another repeatedly collapsed&rdquo; and &ldquo;several became resistant to White&rsquo;s paternalistic attempts to keep order&rdquo; (&ldquo;George White&rdquo;). In addition, Fisk&rsquo;s president refused to raise the singers&rsquo; salaries. A new choir was put together a year later, in 1879, and the Fisk Jubilee Singers continue to perform in 2021. Their current director is Dr. Paul T. Kwami, who is the first African to direct the musical group. He says, &ldquo;The music we sing today helps to bridge the gap between Africans and African-Americans. I am reminded of my life in Ghana whenever I hear the Fisk Jubilee Singers sing the Negro spirituals&rdquo; (&ldquo;Who We Are&rdquo;). The director in the French program presented in this archive is Henrietta Meyers, who went by Mrs. James A. Meyers professionally, the name of her late husband, because &ldquo;she did not want white people to be able to show disrespect by calling her by her first name&rdquo; (&ldquo;Henrietta Meyers&rdquo;). Meyers received acclaim for her direction of the group, including from Madame Curie, George Bernard Shaw and the French composer Maurice Ravel, who presented her troupe with a photograph signed &ldquo;Homage to Perfection&rdquo; (&ldquo;Henrietta Meyers&rdquo;).</span></p>

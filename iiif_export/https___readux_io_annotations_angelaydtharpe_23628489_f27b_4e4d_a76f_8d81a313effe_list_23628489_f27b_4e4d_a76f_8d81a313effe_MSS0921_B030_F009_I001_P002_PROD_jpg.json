@@ -1,0 +1,217 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux.io/annotations/angelaydtharpe/23628489-f27b-4e4d-a76f-8d81a313effe/list/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P002-PROD.jpg",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "1bae362d-9a9b-4f4d-b86e-c5480f8ae0a3",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: Garamond, serif;\">The Fisk Jubilee Singers have been written about in contemporary art, including Tyehimba Jess&rsquo;s 2017 Pulitzer Prize winning book of poetry <em>Olio</em>, where there is a crown of sonnets following the lives of the first troupe of Jubilee Singers. In 2019, Tazewell Thompson wrote an a capella musical about the troupe called <em>Jubilee</em>.</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P002-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=4014,792,501,490",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4013.64537,791.80052h250.54368v0h250.54368v244.80704v244.80704h-250.54368h-250.54368v-244.80704z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b8f794d8-a744-40ce-80ae-613b2280de86\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=4014,792,501,490"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "363ba17c-dc4e-4878-9221-87651e5e46ad",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: Garamond, serif;\">The Jubilee Singers have won numerous awards in their long history, including the National Medal of the Arts, which is the highest recognition of artistic excellence given by the United States government. They received this medal in 2008, which was presented by President George Bush and First Lady Laura Bush. In addition, they received a Presidential Lifetime Achievement Award by the National Arts Club in 1996, were inducted into the Gospel Music Hall of Fame in 2000, and received a Grammy Award in the Best Roots Gospel Album category for their album <em>Celebrating Fisk! The 150<sup>th</sup> Anniversary Album </em>in 2021.</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P002-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=3629,769,335,398",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3629.29074,768.85398h167.36245v0h167.36245v198.91395v198.91395h-167.36245h-167.36245v-198.91395z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_406ece8d-27a2-4780-9414-614c13a3798d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=3629,769,335,398"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "29ce6d42-f445-4a63-b657-2e81d9507b8a",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>WORKS CITED<strong><span style=\"font-family: Garamond, serif;\">&nbsp;</span></strong></p>\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0in 0.5in; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -0.5in;\"><span style=\"font-family: Garamond, serif;\">Brooks, Tim. &ldquo;&lsquo;Might Take One Disc of This Trash as a Novelty&rsquo;: Early Recordings by the Fisk Jubilee Singers and the Popularization of &lsquo;Negro Folk Music.&rsquo;&rdquo; American Music, vol. 18, no. 3, University of Illinois Press, 2000, pp. 278&ndash;316, <a style=\"color: #0563c1;\" href=\"https://doi.org/10.2307/3052431\">https://doi.org/10.2307/3052431</a>.</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0in 0.5in; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -0.5in;\"><span style=\"font-family: Garamond, serif;\">&ldquo;Fisk Jubilee Singers.&rdquo; <em>Wikipedia</em>, Wikimedia Foundation, 10 Oct. 2021, https://en.wikipedia.org/wiki/Fisk_Jubilee_Singers.</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0in 0.5in; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -0.5in;\"><span style=\"font-family: Garamond, serif;\">&ldquo;George Leonard White.&rdquo; <em>PBS</em>, Public Broadcasting Service, <a style=\"color: #0563c1;\" href=\"https://www.pbs.org/wgbh/americanexperience/features/singers-white/\">https://www.pbs.org/wgbh/americanexperience/features/singers-white/</a>.</span></p>\n<p class=\"MsoNormal\" style=\"margin: 0in 0in 0in 0.5in; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -0.5in;\"><span style=\"font-family: Garamond, serif;\">Graber, Katie J. \"&lsquo;A Strange, Weird Effect&rsquo;: the Fisk Jubilee Singers in the United States and England.\" American Music Research Center Journal 14 (2004): 27-52.</span></p>\n<p class=\"MsoListParagraphCxSpFirst\" style=\"margin: 0in 0in 0in 0.5in; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -0.5in;\"><span style=\"font-family: Garamond, serif;\">&ldquo;Henrietta Myers.&rdquo; <em>Wikipedia</em>, Wikimedia Foundation, 8 Nov. 2021, <a style=\"color: #0563c1;\" href=\"https://en.wikipedia.org/wiki/Henrietta_Myers\">https://en.wikipedia.org/wiki/Henrietta_Myers</a>.</span></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0in 0in 0in 0.5in; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -0.5in;\"><span style=\"font-family: Garamond, serif;\">Seroff, Doug. &ldquo;&lsquo;A Voice in the Wilderness&rsquo;: The Fisk Jubilee Singers&rsquo; Civil Rights Tours of 1879&ndash;1882.&rdquo; Popular Music and Society, vol. 25, no. 1-2, 2001, pp. 131&ndash;177., <a style=\"color: #0563c1;\" href=\"https://doi.org/10.1080/03007760108591791\">https://doi.org/10.1080/03007760108591791</a>.</span></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0in 0in 0in 0.5in; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -0.5in;\"><span style=\"font-family: Garamond, serif;\">Tipton, C. Robert. &ldquo;The Fisk Jubilee Singers.&rdquo; Tennessee Historical Quarterly, vol. 29, no. 1, Tennessee Historical Society, 1970, pp. 42&ndash;48, <a style=\"color: #0563c1;\" href=\"http://www.jstor.org/stable/42623128\">http://www.jstor.org/stable/42623128</a>.</span></p>\n<p class=\"MsoListParagraphCxSpMiddle\" style=\"margin: 0in 0in 0in 0.5in; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -0.5in;\"><span style=\"font-family: Garamond, serif;\">&ldquo;Our History.&rdquo; <em>Fisk Jubilee Singers</em>, 7 Dec. 2017, http://fiskjubileesingers.org/about-the-singers/our-history/.</span></p>\n<p class=\"MsoListParagraphCxSpLast\" style=\"margin: 0in 0in 0in 0.5in; font-size: 12pt; font-family: Calibri, sans-serif; text-indent: -0.5in;\"><span style=\"font-family: Garamond, serif;\">&ldquo;Who We Are.&rdquo; <em>Fisk Jubilee Singers</em>, 8 Nov. 2021, http://fiskjubileesingers.org/about-the-singers/who-we-are/.</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P002-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=6960,2544,639,493",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6960.36419,2543.70549h319.70201v0h319.70201v246.40055v246.40055h-319.70201h-319.70201v-246.40055z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6327d12e-19d4-4c0c-95d3-155b679b32fb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=6960,2544,639,493"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "30b5e409-22a0-4181-8b4b-4e7e5ea03d88",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: Garamond, serif;\">In the 1910s, when the Jubilee Singers were popular with White audiences, there was &ldquo;little mention of the Fisks, and virtually no notice of their recordings&rdquo; in Black publications such as <em>The Freeman</em>, the <em>New York Age</em> and <em>The Crisis</em>, the last of which was the official publication of the NAACP, even though each of these magazines made a point to celebrate Black artistic accomplishments (Brooks 299).</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P002-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=1054,384,1149,197",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1053.54107,384.49935h574.66362v0h574.66362v98.52282v98.52282h-574.66362h-574.66362v-98.52282z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d2a2fe37-076d-4f37-84ab-0fb9718b4390\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=1054,384,1149,197"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "daf6a23c-7aae-465e-9477-af13adecf70d",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: Garamond, serif;\">Traveling abroad to England caused the Jubilee Singers to see American racism in a new way. Jeremiah Loudin, who was a part of the first and second Jubilee troupe said, &ldquo;When I first visited England it seemed to me as if I had always been walking about blind before. We were astonished to find such freedom there, such an absence of race prejudice&hellip;I am an enthusiastic American, but there is no place for Freedom like England&rdquo; (Seroff 136).</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P002-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=440,1434,840,243",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M439.72099,1434.30378h419.77445v0h419.77445v121.46936v121.46936h-419.77445h-419.77445v-121.46936z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_db090ced-d5b2-4fb0-8eb1-31cce2dc27cd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=440,1434,840,243"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "de827c4b-cd5e-4edd-bb71-159122499383",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Angela Tharpe"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p class=\"MsoNormal\" style=\"margin: 0in; font-size: 12pt; font-family: Calibri, sans-serif;\"><span style=\"font-family: Garamond, serif;\">Jeremiah Loudin used the Fisk Jubilee Singers platform in America to advocate for racial equality. After the group experienced discrimination on a train to one of their Southern shows, Loudin voiced his complaint on stage in Louisville, Kentucky, which garnered both support&mdash;a local newspaper, <em>The Commercial</em>, reported that, &ldquo;there was not a lady or gentleman in the house who did not feel angry or ashamed at the injustice&rdquo;&mdash;and criticism, another newspaper, the <em>Courier-Journal</em>, reporting that the comment &ldquo;was in bad taste, and poor policy, and aroused the indignation of many present&rdquo; (Seroff 148).</span></p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/canvas/23628489-f27b-4e4d-a76f-8d81a313effe_MSS0921-B030-F009-I001-P002-PROD.jpg",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux.io/iiif/v2/23628489-f27b-4e4d-a76f-8d81a313effe/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=663,3200,346,123",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M662.8124,3200.23164h173.09909v0h173.09909v61.55338v61.55338h-173.09909h-173.09909v-61.55338z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_46801f4a-41bd-444f-b3e9-f6565383a95e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=663,3200,346,123"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
